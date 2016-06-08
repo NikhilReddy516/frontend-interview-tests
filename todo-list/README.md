@@ -10,7 +10,7 @@ The starting template for the application can be found inside `src/index.html`.
 
 The task is to write a simple todo list application that:
 
-- Allows the user to add a task.
+- Allows the user to add a task by typing into the `input` field and clicking on the **Add** button.
   - The task will be added to the existing list of tasks and has the state of active.
   - An active task will have a **Complete** button and a **Delete** button.
 - Allows the user to mark am active task as complete.
