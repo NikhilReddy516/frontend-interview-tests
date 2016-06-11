@@ -1,0 +1,11 @@
+.todo-list {
+  margin-top: 15px;
+}
+
+.todo-completed {
+  text-decoration: line-through;
+}
+
+.action-row {
+  margin: 15px 0;
+}
